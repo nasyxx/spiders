@@ -14,7 +14,7 @@ Excited without bugs::
 * file: spider.py
 * license: MIT
 
-This one is used to crawl this page:
+This one is used to crawl the table on this page::
     http://py4e-data.dr-chuck.net/comments_42.html
 
 Just a simple example.

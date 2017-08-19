@@ -1,0 +1,15 @@
+#+TITLE: SPIDERS README
+#+DATE: <2017-08-20 Sun>
+#+AUTHOR: Nasy
+#+EMAIL: nasyxx@gmail.com
+
+* SPIDERS
+
+This project include some of the web spiders I wrote.
+
+I've written too many spiders. And the serial number here is just the order in which I add it, it is not degree of difficulty, nor is it written order.
+
+* The Contents
+
+- 0001: A very simple example.
+  This one I used to tell my friends to use requests, rather than urlib.
